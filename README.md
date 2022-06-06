@@ -8,3 +8,13 @@
   - To know whether we are building the right things.
 * Main difference between `Continuos Delivery` and `Continuos Deployment`:
   - `Continuos Delivery` is more technically focused while `Continuos Deployment` is more product focused.
+* Speed:
+  - `Throughput` = `Lead Time` & `Frequency`
+* Quality:
+  - `Stability` = `Change Failure Rate` & `Recovery Failure Time`
+
+`NB!`
+
+Working in smaller steps to ensure that our software is always in a releasable state.
+
+
