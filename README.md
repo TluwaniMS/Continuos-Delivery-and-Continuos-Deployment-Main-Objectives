@@ -29,3 +29,6 @@ Working in smaller steps to ensure that our software is always in a releasable s
 # Supporting Videos:
 
 * [CONTINUOUS DELIVERY SIMPLY EXPLAINED](https://www.youtube.com/watch?v=qiDIif7JVMo&t=471s)
+* [Continuous Deployment or Continuous Delivery? | When To Release](https://www.youtube.com/watch?v=mBzDPRgue6s)
+* [Top 10 Rules For Continuous Integration](https://www.youtube.com/watch?v=Xl62gQpAl1w&t=345s)
+* [The Foundations of Continuous Delivery](https://www.youtube.com/watch?v=kgYhZOzb6EM)
