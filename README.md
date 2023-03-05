@@ -1,4 +1,4 @@
-# CONTINUOS_DELIVERY-AND-CONTINUOS_DEPLOYMENT-MAIN-OBJECTIVES
+# CONTINUOS DELIVERY AND CONTINUOS DEPLOYMENT MAIN-OBJECTIVES
 
 * Creating a repeatable, reliable process for releasing software
 * Enabling the continuos shipping of software to our users so we can get feedback faster and know what to improve.
@@ -25,3 +25,7 @@ Working in smaller steps to ensure that our software is always in a releasable s
   - System is fast enough (Acceptance tests)
   - System is scalable
   - System is secure, resilient, and compliant enough
+
+# Supporting Videos:
+
+* [CONTINUOUS DELIVERY SIMPLY EXPLAINED](https://www.youtube.com/watch?v=qiDIif7JVMo&t=471s)
